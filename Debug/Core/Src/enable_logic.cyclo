@@ -1,0 +1,2 @@
+../Core/Src/enable_logic.c:16:6:EnableLogic_Init	1
+../Core/Src/enable_logic.c:22:6:EnableLogic_Update	13

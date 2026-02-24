@@ -1,0 +1,16 @@
+# Build folders
+Debug/
+Release/
+
+# Object files
+*.o
+*.elf
+*.map
+
+# CubeIDE
+.settings/
+*.launch
+
+# OS files
+Thumbs.db
+.DS_Store
